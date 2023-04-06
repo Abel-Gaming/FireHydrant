@@ -1,0 +1,1 @@
+print('Loaded Fire Hydrant script by Abel Gaming')
